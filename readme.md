@@ -19,7 +19,7 @@
 
     ```bash
     django-admin startproject config
-    cd myproject
+    cd config
     python manage.py startapp task
     ```
 
